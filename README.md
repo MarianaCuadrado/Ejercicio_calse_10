@@ -1,1 +1,1 @@
-# Ejercicio_calse_10
+# Ejercicio_clase_10
